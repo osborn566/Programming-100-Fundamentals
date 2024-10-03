@@ -1,5 +1,4 @@
-# Programming-100-Fundamentals
-# TCM - Programming 100 Fundamentals
+# TCM - Programming 100 Fundamentals Notes
 
 ## 1. Introduction of Python
 
